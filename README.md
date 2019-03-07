@@ -1,6 +1,9 @@
 [![Build Status](https://travis-ci.org/jethrokuan/z.svg?branch=master)](https://travis-ci.org/jethrokuan/z)
 
-# Z
+# Z (Achieved)
+
+This is a fork of [jethrokuan/z](https://github.com/jethrokuan/z) with windows support for `zo`.
+Already merged to the original repo.
 
 **z** is a port of [z](https://github.com/rupa/z) for the [fish shell](https://fishshell.com).
 
